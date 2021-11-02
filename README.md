@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @PaulPalaciosParedes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Paul Palacios 
+- 🚀 Soy Ingeniero Electrónico
+- 🛰 Tengo unas cuantas publicaciones cientificas sobre temas espaciales
+- 🚀🛰 Me gusta bastante las tecnologías espaciales
+- 👨‍🚀  Astronauta Analogo en la mision PERU IV en MDRS
 
-<!---
-PaulPalaciosParedes/PaulPalaciosParedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
